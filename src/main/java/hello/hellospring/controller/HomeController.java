@@ -11,4 +11,8 @@ public class HomeController {
         return "home";
     }
 
+    public void test(){
+        System.out.println("인증 테스트");
+    }
+
 }
