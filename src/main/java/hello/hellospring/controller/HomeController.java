@@ -10,9 +10,4 @@ public class HomeController {
     public String home(){
         return "home";
     }
-
-    public void test(){
-        System.out.println("인증 테스트");
-    }
-
 }
